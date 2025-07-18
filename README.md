@@ -23,7 +23,6 @@ This project focuses on detecting fraudulent transactions using Random Forest an
 - scikit-learn
 - RandomForestClassifier
 - DecisionTreeClassifier
-- matplotlib (for visualization)
 
 ---
 
@@ -37,16 +36,6 @@ This project focuses on detecting fraudulent transactions using Random Forest an
 6. Evaluated both using:
    - Accuracy
    - Classification Report
-   - Confusion Matrix
-
----
-
-
-
-## 📈 Visualization
-
-- Bar plot for predicted fraud vs non-fraud
-- Confusion matrix heatmap to show TP, FP, FN, and TN
 
 ---
 
