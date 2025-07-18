@@ -1,10 +1,10 @@
-# 🛡️ Task 2 - Credit Card Fraud Detection (CodSoft Internship)
+#  Task 2 - Credit Card Fraud Detection (CodSoft Internship)
 
 This project focuses on detecting fraudulent transactions using Random Forest and Decision Tree classifiers on a cleaned and balanced dataset.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - Contains customer transaction records with columns like `amount`, `merchant`, `job`, `category`, and `is_fraud`
 - Extracted from a ZIP file and loaded using pandas
